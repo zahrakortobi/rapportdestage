@@ -1,0 +1,37 @@
+body{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    color: white;
+    background-color: antiquewhite;
+    background: url(https://i.pinimg.com/736x/a9/f6/14/a9f61436b34cb0b794d2a0770e434faa.jpg);
+}
+
+#image1{
+    width: 280px;
+}
+#image2{
+    width: 280px
+}
+
+.titre-orange{
+    color:white;
+}
+.titre-rouge{
+    color: white;
+}
+.fond-violet{
+    background-color: rgb(0, 0, 0);
+    width: 500px;
+    height: 300px;
+    text-align: center;
+}
+.titre-rouge:hover{
+    color: blue;
+}
+
+a{
+    color: aqua;
+}
+a:hover{
+    color: rgb(138, 181, 181);
+}
