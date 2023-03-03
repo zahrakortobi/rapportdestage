@@ -1,0 +1,17 @@
+body{
+
+display: grid;
+grid-template-columns: repeat(3,1fr);
+color: rgb(255, 255, 255);
+background-color: antiquewhite;
+background: url(https://img.freepik.com/vecteurs-libre/arriere-plan-style-futuriste_23-2148497523.jpg);
+}
+
+
+.fond_noir{
+    background-color: rgba(37, 6, 69, 0.689);
+}
+
+.titre-rouge:hover{
+    color: blue;
+}
