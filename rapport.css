@@ -8,10 +8,10 @@ background: url(https://img.freepik.com/vecteurs-libre/arriere-plan-style-futuri
 }
 
 
+
 .fond_noir{
     background-color: rgba(37, 6, 69, 0.689);
 }
-
 .titre-rouge:hover{
     color: blue;
 }
